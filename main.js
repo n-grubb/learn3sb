@@ -13,4 +13,4 @@ import './style.css';
 // import './lessons/pt1/lesson13-3dtext'
 
 // PART 2:
-// import './lessons/pt1/lesson13-3dtext'
+import './lessons/pt2/lesson14-lighting';
